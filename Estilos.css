@@ -12,5 +12,5 @@ section{
     left: 50%;
     top: 50%;
     transform: translateX(-50%) translateY(-50%);
-    text-shadow: 2px 2px 2px white;
+    text-shadow: 2px 2px 2px #ffffff;
 }
