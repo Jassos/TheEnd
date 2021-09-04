@@ -9,7 +9,8 @@ h1, h4{
     font-family: 'MinecraftiaRegular';
     font-weight: normal;
     font-style: normal;
-    text-shadow: 2px 2px 2px #ffffff;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px #000000;
 
 section{
     position: absolute;
